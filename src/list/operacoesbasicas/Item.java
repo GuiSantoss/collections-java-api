@@ -1,3 +1,5 @@
+package list.operacoesbasicas;
+
 public class Item {
     String nome;
     double preco;
